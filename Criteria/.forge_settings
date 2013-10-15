@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+<jboss-as>
+<as7>
+<configured>PROJECT</configured>
+<jboss-home>D:\dev\wildfly-8.0.0.Beta1</jboss-home>
+</as7>
+</jboss-as>
+</configuration>
